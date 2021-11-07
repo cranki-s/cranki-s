@@ -1,5 +1,4 @@
 <h1 align="center">Bonsoir 👋, I'm cranki</h1>
-<h3 align="center">sugar is what drives me</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cranki-s&label=Profile%20views&color=ff0d00&style=flat" alt="cranki-s" /> </p>
 
@@ -7,7 +6,6 @@
 
 - 📫 How to reach me **Discord: cranki#8888**
 
-- ⚡ Fun fact **more sugar == faster work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
