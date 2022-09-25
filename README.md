@@ -8,5 +8,3 @@
 <p align="left">
 <a href="https://crmnl.pw/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/crmnl" height="30" width="40" /></a>
 </p>
-
-![cranki's GitHub stats](https://github-readme-stats.vercel.app/api?username=cranki-s&show_icons=true&theme=radical)
